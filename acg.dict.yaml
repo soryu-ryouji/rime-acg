@@ -1,0 +1,14 @@
+# Rime dictionary
+# encoding: utf-8
+#
+#
+# https://github.com/soryu-ryouji/rime-acg
+# ------- 扩展词库 -------
+---
+name: acg
+version: "2024-06-26"
+sort: by_weight
+...
+
+# Galgame
+ciallo	Ciallo～(∠·ω< )⌒★
